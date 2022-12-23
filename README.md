@@ -1,5 +1,5 @@
 
-# mobile-crud-fullstack-postgres
+# mobile-crud-fullstack-rn-postgres
 ## Backend
 ### Pre-requisites
 - Postgres Database should be installed(Either on local or on server)
